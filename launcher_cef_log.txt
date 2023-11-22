@@ -1,4 +1,0 @@
-[1122/173732.649:INFO:main_context.cpp(131)] CEF initialized successfully.
-[1122/173732.649:INFO:main_context.cpp(133)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
-[1122/173751.511:INFO:LauncherAppRenderer.cpp(544)] OnContextReleased: no frame (unknown context), browser id=1
-[1122/173751.517:ERROR:shared_buffer_dispatcher.cc(192)] Invalid serialized shared buffer dispatcher (invalid num_bytes?)
