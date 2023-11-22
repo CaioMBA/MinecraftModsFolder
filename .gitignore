@@ -1,0 +1,13 @@
+assets/
+logs/
+crash-reports/
+saves/
+bin/
+screenshots/
+schematics/
+webcache2/
+script/
+schematics/
+CustomSkinLoader/
+versions/*
+!versions/1.18.2-forge-40.2.14/

@@ -1,0 +1,24 @@
+{
+  "id": "Madmitron_232-65-1089",
+  "name": "Madmitron",
+  "groupName": ":Waystones",
+  "displayId": "74ba6764-32c4-4273-b7e4-a92c4d835ee8",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 232,
+  "y": 65,
+  "z": -1089,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

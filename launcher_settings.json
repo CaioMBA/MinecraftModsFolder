@@ -1,0 +1,12 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 1891266747704700289,
+  "formatVersion" : 0,
+  "locale" : "en-US",
+  "productLibraryDir" : "C:\\Users\\caiom\\AppData\\Local\\Mojang\\products",
+  "quickPlayEnabled" : false,
+  "useArm64JreIfSupported" : false,
+  "useMagnifiedMode" : false,
+  "version" : 5
+}

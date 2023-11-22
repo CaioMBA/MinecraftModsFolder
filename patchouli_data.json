@@ -1,0 +1,43 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bigreactors:erguide": {
+      "viewedEntries": [
+        "bigreactors:intro/first"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ftbic:ftbic_guide": {
+      "viewedEntries": [
+        "ftbic:items/carbon_armor",
+        "ftbic:items/quantum_armor",
+        "ftbic:items/upgrades",
+        "ftbic:items/mechanical_elytra",
+        "ftbic:items/battery",
+        "ftbic:items/fluid_cell",
+        "ftbic:items/nuke"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/lexicon"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "thermal:guidebook": {
+      "viewedEntries": [
+        "thermal:technology/65_items",
+        "thermal:technology/tinker_bench",
+        "thermal:world/holding",
+        "thermal:technology/charge_bench"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

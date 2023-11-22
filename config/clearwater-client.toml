@@ -1,0 +1,39 @@
+
+#Client Settings
+[client]
+	#Enables modifications of fog under water
+	enableWater = true
+	#Value for where fog starts. Vanilla is -8.0
+	#Range: -100.0 ~ 500.0
+	fogNearPlaneWater = -8.0
+	#Value for where fog ends. Vanilla is 96.0
+	#Range: -100.0 ~ 500.0
+	fogFarPlaneWater = 250.0
+	#When enabled, makes vision fade in like vanilla behavior
+	fadeInWater = true
+	#The shape of the fog around the player.
+	#Allowed Values: SPHERE, CYLINDER
+	fogShapeWater = "CYLINDER"
+	#Enables modifications of fog under lava
+	enableLava = true
+	#Value for where fog starts. Vanilla is 0.25
+	#Range: -100.0 ~ 500.0
+	fogNearPlaneLava = 0.0
+	#Value for where fog ends. Vanilla is 1.0
+	#Range: -100.0 ~ 500.0
+	fogFarPlaneLava = 10.0
+	#The shape of the fog around the player.
+	#Allowed Values: SPHERE, CYLINDER
+	fogShapeLava = "SPHERE"
+	#Enables modifications of fog under powdered snow
+	enablePowderedSnow = true
+	#Value for where fog starts. Vanilla is 0.0
+	#Range: -100.0 ~ 500.0
+	fogNearPlaneSnow = 0.0
+	#Value for where fog ends. Vanilla is 2.0
+	#Range: -100.0 ~ 500.0
+	fogFarPlaneSnow = 6.0
+	#The shape of the fog around the player.
+	#Allowed Values: SPHERE, CYLINDER
+	fogShapeSnow = "SPHERE"
+

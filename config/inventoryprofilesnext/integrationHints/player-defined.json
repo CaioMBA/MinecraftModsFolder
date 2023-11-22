@@ -1,0 +1,266 @@
+{
+    "dev.ftb.mods.ftbic.screen.MachineScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 20,
+                "bottom": 2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 30,
+                "top": 11
+            },
+            "SORT": {
+                "horizontalOffset": 7
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 6
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 31,
+                "top": 11
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.TravelersBackpackScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 32,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 44,
+                "top": 109
+            },
+            "SORT": {
+                "horizontalOffset": 44,
+                "top": 109
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 44,
+                "top": 109
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 44,
+                "top": 109
+            }
+        }
+    },
+    "mekanism.client.gui.GuiEnergyCube": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 3,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 3,
+                "top": 56
+            },
+            "SORT": {
+                "horizontalOffset": 2,
+                "top": 67
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 2,
+                "top": 67
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 3,
+                "top": 67
+            }
+        }
+    },
+    "appeng.client.gui.me.items.CraftingTermScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 22,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 22,
+                "top": 149
+            },
+            "SORT": {
+                "horizontalOffset": 19,
+                "top": 160
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20,
+                "top": 160
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 21,
+                "top": 160
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -6,
+                "bottom": 68
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 7,
+                "bottom": 56
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 6,
+                "bottom": 57
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 7,
+                "bottom": 57
+            }
+        }
+    },
+    "mekanism.client.gui.machine.GuiMetallurgicInfuser": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 10,
+                "top": 11
+            },
+            "SORT": {
+                "horizontalOffset": -14,
+                "top": 11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -2
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -2
+            }
+        }
+    },
+    "mekanism.client.gui.machine.GuiElectrolyticSeparator": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 10,
+                "bottom": 10
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 12,
+                "top": 19
+            },
+            "SORT": {
+                "horizontalOffset": -12,
+                "top": 19
+            },
+            "SORT_COLUMNS": {
+                "top": 8
+            },
+            "SORT_ROWS": {
+                "top": 8
+            }
+        }
+    },
+    "appeng.client.gui.implementations.SkyChestScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 49
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 25
+            },
+            "SORT": {
+                "horizontalOffset": 27
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 25
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 49,
+                "bottom": 1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 26
+            },
+            "SORT": {
+                "horizontalOffset": 26
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 26
+            }
+        }
+    },
+    "vazkii.quark.addons.oddities.client.screen.MatrixEnchantingScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 89,
+                "bottom": -1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 100,
+                "top": 67
+            },
+            "SORT": {
+                "horizontalOffset": 75,
+                "top": 56
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 76,
+                "top": 56
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 77,
+                "top": 56
+            }
+        }
+    },
+    "mekanism.client.gui.machine.GuiAdvancedElectricMachine": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -3
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 9,
+                "top": 66
+            },
+            "SORT": {
+                "horizontalOffset": 9,
+                "top": 66
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 9,
+                "top": 66
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 9,
+                "top": 66
+            }
+        }
+    },
+    "mekanism.client.gui.machine.GuiElectricMachine": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -3,
+                "bottom": 1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 9,
+                "top": 65
+            },
+            "SORT": {
+                "horizontalOffset": 9,
+                "top": 65
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 9,
+                "top": 65
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 9,
+                "top": 65
+            }
+        }
+    }
+}
