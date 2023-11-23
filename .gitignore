@@ -14,6 +14,8 @@ schematics/
 CustomSkinLoader/
 versions/*
 !versions/1.18.2-forge-40.2.14/
+!versions/1.18.2/
+clientId.txt
 launcher_log.txt
 launcher_log0.txt
 launcher_log1.txt
