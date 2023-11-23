@@ -12,6 +12,7 @@ webcache2/
 script/
 schematics/
 CustomSkinLoader/
+essential/
 versions/*
 !versions/1.18.2-forge-40.2.14/
 !versions/1.18.2/
