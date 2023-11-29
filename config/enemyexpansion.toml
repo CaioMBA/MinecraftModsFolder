@@ -10,17 +10,17 @@
 	"Cockatrice Spawning Depth" = 60.0
 
 [mobReplacement]
-	"Petriman Zombie Replacement" = 1.0
+	"Petriman Zombie Replacement" = 0.5
 	"Silverking Spider Replacement" = 0.4
 	"Crawler/Intruder Creeper Replacement" = 0.3
-	"Vampire Skeleton Replacement" = 0.75
-	"Troll Enderman Replacement" = 1.0
+	"Vampire Skeleton Replacement" = 0.4
+	"Troll Enderman Replacement" = 0.2
 	#(This is the only way in which Cinders will ever spawn - Disable at your own risk!)
 	"Cinder Blaze Replacement" = 0.2
-	"Boar Pig Replacement" = 0.65
-	"Bull Cow Replacement" = 0.75
+	"Boar Pig Replacement" = 0.5
+	"Bull Cow Replacement" = 0.5
 	"Ram Sheep Replacement" = 0.35
-	"Rooster Chicken Replacement" = 0.55
+	"Rooster Chicken Replacement" = 0.5
 	"Tarantula Spider Replacement" = 1.0
 	"Scorpion Spider Replacement" = 1.0
 	"Random Enemy Expansion Zombie Replacement" = 0.0
@@ -71,9 +71,9 @@
 	"Netherite Wearer Spawning" = 0.001
 
 [miscOptions]
-	"Punching Ram Drops Wool Chance" = 0.0
+	"Punching Ram Drops Wool Chance" = 0.1
 	"Wandering Trader becomes Illusioner on-death Chance" = 0.95
-	"Burning Undead mobs gain Speed III Chance" = 0.0
+	"Burning Undead mobs gain Speed III Chance" = 0.1
 	"Mobs Sometimes Spawn With Varying Speed Chance" = 0.5
 	"Skeletons Switch Weapons Mid-Fight Chance" = 0.2
 	"Flies Spawn From Killed Zombies Chance" = 0.025
