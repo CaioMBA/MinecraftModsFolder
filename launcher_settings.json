@@ -8,5 +8,5 @@
   "quickPlayEnabled" : false,
   "useArm64JreIfSupported" : false,
   "useMagnifiedMode" : false,
-  "version" : 5
+  "version" : 6
 }
