@@ -29,7 +29,6 @@
 [emotes]
 
 	[emotes.general]
-		emotes_preview = false
 		disable_emotes = false
 		play_emotes_in_third_person_view = true
 		emote_preview = false
@@ -43,7 +42,7 @@
 [notifications]
 
 	[notifications.general]
-		disable_all_notifications = true
+		disable_all_notifications = false
 		host_world_ip_warning = true
 		update_notifications = true
 		screenshot_toast_duration = 1
@@ -77,12 +76,15 @@
 	[quality_of_life.screenshots]
 		vanilla_screenshot_message = false
 		"screenshot_quick_action_#2_-_top_right" = 2
-		"screenshot_quick_action_#3_-_bottom_left" = 1
+		"screenshot_quick_action_#3_-_bottom_left" = 0
 		essential_screenshots = true
 		screenshot_sounds = true
 		"screenshot_quick_action_#1_-_top_left" = 5
 		post_screenshot_action = 0
 		"screenshot_quick_action_#4_-_bottom_right" = 4
+
+[__meta]
+	version = 11
 
 [cosmetics]
 
@@ -92,51 +94,4 @@
 		"cosmetic_&_armor_conflict_-_on_myself" = 0
 		disable_cosmetics_in_inventory = false
 		"cosmetic_&_armor_conflict_-_on_others" = 0
-
-[__meta]
-	version = 11
-
-	[__meta.migration_log]
-
-		[__meta.migration_log.0]
-
-			[__meta.migration_log.0.changed]
-				"general.general.gui_scale" = true
-
-		[__meta.migration_log.1]
-
-			[__meta.migration_log.1.changed]
-				"cosmetics.general.cosmetic_armor_handling" = 0
-
-		[__meta.migration_log.3]
-
-			[__meta.migration_log.3.changed]
-				"hidden.hidden.wardrobesortoptionmigration" = true
-				"hidden.hidden.wardrobesortoption" = 1
-
-		[__meta.migration_log.4]
-
-			[__meta.migration_log.4.changed]
-				"general.experience.show_menus" = true
-
-		[__meta.migration_log.6]
-
-			[__meta.migration_log.6.changed]
-				"general.experience.automatic_updates" = true
-
-		[__meta.migration_log.7]
-
-			[__meta.migration_log.7.changed]
-				"cosmetics.general.hide_your_cosmetics" = false
-
-		[__meta.migration_log.9]
-
-			[__meta.migration_log.9.changed]
-				"general.general.prompt_when_visiting_trusted_hosts" = false
-
-		[__meta.migration_log.10]
-			added = ["emotes.general.emotes_preview"]
-
-			[__meta.migration_log.10.changed]
-				"emotes.general.emote_preview_in_first_person" = true
 
