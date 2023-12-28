@@ -32,7 +32,7 @@
 	"Clone mutations" = false
 	#
 	#Set to true to override vanilla farming, meaning vanilla seeds will be converted to agricraft seeds on planting.
-	"Override vanilla farming" = true
+	"Override vanilla farming" = false
 	#
 	#Set to true to convert seeds only in the analyzer. Has no effect if "Override vanilla farming" is set to false.
 	"Convert seeds only in analyzer" = false
@@ -45,13 +45,13 @@
 	"Only mature crops drop seeds" = false
 	#
 	#Set to true to completely disable the spawning of weeds
-	"Disable weeds" = false
+	"Disable weeds" = true
 	#
 	#Set to false to disable mature weeds killing plants
-	"Mature weeds kill plants" = true
+	"Mature weeds kill plants" = false
 	#
 	#Set to false to disable the spreading of weeds
-	"Weeds can spread" = true
+	"Weeds can spread" = false
 	#
 	#Set this to true to have weeds destroy the crop sticks when they are broken with weeds (to encourage rake usage).
 	"Weeds destroy crop sticks" = false
@@ -230,7 +230,7 @@
 	#The minimum fraction of glass-type blocks a greenhouse ceiling needs in order to work (0.0 = none, 1.0 = all)
 	#Be careful when modifying this value as it might break village greenhouses
 	#Range: 0.0 ~ 1.0
-	"Greenhouse ceiling glass fraction" = 0.4
+	"Greenhouse ceiling glass fraction" = 0.0
 	#
 	#Set to false if greenhouses should not make crops ignore seasons
 	"Greenhouses ignore seasons" = true
@@ -243,7 +243,7 @@
 [compat]
 	#
 	#Set to false if you want all mutations to be shown in JEI all the time instead of having to research them
-	"Progressive JEI" = true
+	"Progressive JEI" = false
 	#
 	#Defines the mod controlling season logic in case multiple are installed
 	#accepted values are: "sereneseasons"
