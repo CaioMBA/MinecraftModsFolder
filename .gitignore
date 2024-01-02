@@ -1,4 +1,5 @@
 assets/
+.mixin.out/
 tlauncher_libraries/
 journeymap/
 runtime/
