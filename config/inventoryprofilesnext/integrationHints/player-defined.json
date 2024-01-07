@@ -29,19 +29,19 @@
             },
             "MOVE_TO_PLAYER": {
                 "horizontalOffset": 44,
-                "top": 109
+                "top": 127
             },
             "SORT": {
-                "horizontalOffset": 44,
-                "top": 109
+                "horizontalOffset": 45,
+                "top": 127
             },
             "SORT_COLUMNS": {
                 "horizontalOffset": 44,
-                "top": 109
+                "top": 127
             },
             "SORT_ROWS": {
                 "horizontalOffset": 44,
-                "top": 109
+                "top": 127
             }
         }
     },
@@ -77,19 +77,19 @@
             },
             "MOVE_TO_PLAYER": {
                 "horizontalOffset": 22,
-                "top": 149
+                "top": 176
             },
             "SORT": {
                 "horizontalOffset": 19,
-                "top": 160
+                "top": 176
             },
             "SORT_COLUMNS": {
                 "horizontalOffset": 20,
-                "top": 160
+                "top": 176
             },
             "SORT_ROWS": {
                 "horizontalOffset": 21,
-                "top": 160
+                "top": 176
             }
         }
     },
